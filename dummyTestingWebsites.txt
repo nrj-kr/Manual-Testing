@@ -1,0 +1,33 @@
+Here we are goiung to mention a few websites for hands on training of manual testing and also automated testing. Few of the websites are as follows:
+1. https://the-internet.herokuapp.com/
+2. www.guru99.com/live-testing-project.html
+3.asta.pgs-soft.com
+4.http://timvroom.com/selenium/playground/
+5.http://automationpractice.com/index.php
+6.demoqa.com
+7.https://demosite.executeautomation.com/index.html
+8.https://www.way2automation.com/demo.html
+9.https://phptravels.com/demo/
+10.https://www.saucedemo.com/
+11.https://ultimateqa.com/automation
+12.https://gothinkster.github.io/realworld/
+13.https://www.telerik.com/support/demos
+14.http://webdriveruniversity.com/index.html
+15.https://demo.applitools.com/
+16.https://parabank.parasoft.com/parabank/admin.htm(opens%20in%20a%20new%20tab)
+17.http://a.testaddressbook.com/
+18.https://restful-booker.herokuapp.com/
+19.https://jsonplaceholder.typicode.com/
+20.https://petstore.swagger.io/
+21.https://httpbin.org/#/
+22.https://compendiumdev.co.uk/
+23.https://react-shopping-cart-67954.firebaseapp.com/
+24.https://testsheepnz.github.io/BasicCalculator.html
+25.http://uitestingplayground.com/
+26.https://petstore.octoperf.com/actions/Catalog.action
+27.https://computer-database.gatling.io/computers
+28.https://owasp.org/www-project-juice-shop/
+29.https://pwa-woo.wpmobilepack.com/#/
+30.https://www.demoblaze.com/
+
+After completing this you can perform testing on any website or application as nothing is perfect or bug-free, In starting it may be difficult to find bug but not impossible.
